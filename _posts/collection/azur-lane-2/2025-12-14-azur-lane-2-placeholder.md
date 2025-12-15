@@ -13,7 +13,7 @@ excerpt: "Placeholder entry for Azur Lane 2 collection"
 
 This is a placeholder entry for the Azur Lane 2 Weiss Schwarz set.
 
-![azure]({{ site.baseurl }}/assets/images/azurelane2.jpg)
+![azure](/assets/images/azurelane2.jpg)
 
 **Date:** December 14, 2025
 **Set:** Azur Lane 2

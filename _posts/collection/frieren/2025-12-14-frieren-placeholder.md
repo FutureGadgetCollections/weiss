@@ -13,7 +13,7 @@ excerpt: "Placeholder entry for Frieren collection"
 
 This is a placeholder entry for the Frieren Weiss Schwarz set.
 
-![Frieren]({{ site.baseurl }}/assets/images/frieren.jpg)
+![Frieren](/assets/images/frieren.jpg)
 
 **Date:** December 14, 2025
 **Set:** Frieren

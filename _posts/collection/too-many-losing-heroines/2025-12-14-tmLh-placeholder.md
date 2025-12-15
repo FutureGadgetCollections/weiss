@@ -13,7 +13,7 @@ excerpt: "Placeholder entry for Too Many Losing Heroines collection"
 
 This is a placeholder entry for the Too Many Losing Heroines Weiss Schwarz set.
 
-![tmlh]({{ site.baseurl }}/assets/images/makeine.jpg)
+![tmlh](/assets/images/makeine.jpg)
 
 **Date:** December 14, 2025
 **Set:** Too Many Losing Heroines
