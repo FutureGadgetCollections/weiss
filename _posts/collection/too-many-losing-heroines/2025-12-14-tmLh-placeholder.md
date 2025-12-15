@@ -32,13 +32,13 @@ Has not sold any
 
 ## Market Value
 
-### [Booster Boxes](https://www.tcgplayer.com/product/646335/weiss-schwarz-azur-lane-vol-2-azur-lane-vol-2-booster-box?page=1&Language=English)
+### [Booster Boxes](https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=weiss+schwarz+Makeine+Too+many+losing+heroines+Booster+Box+&dayRange=1095&endDate=1765765992905&startDate=1671157992905&categoryId=0&offset=0&limit=50&tabName=SOLD&tz=America%2FNew_York)
 
 | Date | Market Value | Sell Through |
 |------|--------------|--------------|
 | 2025-12-14 | $50          | 1/Month      |
 
-### [Booster Box Cases](https://www.tcgplayer.com/product/646343/weiss-schwarz-azur-lane-vol-2-azur-lane-vol-2-booster-box-case?page=1&Language=English)
+### [Booster Box Cases](https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=weiss+schwarz+Makeine+Too+many+losing+heroines+Booster+Box+&dayRange=1095&endDate=1765765992905&startDate=1671157992905&categoryId=0&offset=0&limit=50&tabName=SOLD&tz=America%2FNew_York)
 
 | Date | Market Value | Sell Through |
 |------|--------------|--------------|
