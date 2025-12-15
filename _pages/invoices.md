@@ -9,5 +9,5 @@ This section contains records of all purchases and sales related to the collecti
 
 ## Transaction Categories
 
-- [Purchases](/lego/invoices/purchases/) - All purchase transactions
-- [Sales](/lego/invoices/sales/) - All sale transactions
+- [Purchases](/weiss/invoices/purchases/) - All purchase transactions
+- [Sales](/weiss/invoices/sales/) - All sale transactions

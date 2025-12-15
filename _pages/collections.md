@@ -1,24 +1,24 @@
 ---
 title: "All Collections"
 layout: single
-permalink: /collections/
+permalink: /collection/
 author_profile: false
 classes: wide
 ---
 
-Welcome to the LEGO collection showcase! Browse by theme below:
+Welcome to the Weiss Schwarz collection showcase! Browse by set below:
 
-## LEGO Themes
+## Weiss Schwarz Sets
 
 <div class="feature__wrapper">
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/assets/images/themes/star-wars.png" alt="Star Wars">
+        <img src="{{ site.baseurl }}/assets/images/themes/makeine.jpg" alt="Too Many Losing Heroines">
       </div>
       <div class="archive__item-body">
-        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collections/star-wars/">Star Wars</a></h3>
-        <p class="archive__item-excerpt">Star Wars LEGO sets and builds</p>
+        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collection/too-many-losing-heroines/">Too Many Losing Heroines</a></h3>
+        <p class="archive__item-excerpt">Weiss Schwarz cards from the Too Many Losing Heroines set</p>
       </div>
     </div>
   </div>
@@ -26,11 +26,11 @@ Welcome to the LEGO collection showcase! Browse by theme below:
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/assets/images/themes/harry-potter.jpg" alt="Harry Potter">
+        <img src="{{ site.baseurl }}/assets/images/themes/azurelane2.jpg" alt="Azur Lane 2">
       </div>
       <div class="archive__item-body">
-        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collections/harry-potter/">Harry Potter</a></h3>
-        <p class="archive__item-excerpt">Harry Potter LEGO sets and builds</p>
+        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collection/azur-lane-2/">Azur Lane 2</a></h3>
+        <p class="archive__item-excerpt">Weiss Schwarz cards from the Azur Lane 2 set</p>
       </div>
     </div>
   </div>
@@ -38,59 +38,11 @@ Welcome to the LEGO collection showcase! Browse by theme below:
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/assets/images/themes/ninjago.png" alt="Ninjago">
+        <img src="{{ site.baseurl }}/assets/images/themes/frieren.jpg" alt="Frieren">
       </div>
       <div class="archive__item-body">
-        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collections/ninjago/">Ninjago</a></h3>
-        <p class="archive__item-excerpt">Ninjago LEGO sets and builds</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="feature__item">
-    <div class="archive__item">
-      <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/assets/images/themes/f1.png" alt="F1">
-      </div>
-      <div class="archive__item-body">
-        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collections/f1/">F1</a></h3>
-        <p class="archive__item-excerpt">Formula 1 LEGO sets and builds</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="feature__item">
-    <div class="archive__item">
-      <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/assets/images/themes/nintendo.png" alt="Nintendo">
-      </div>
-      <div class="archive__item-body">
-        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collections/nintendo/">Nintendo</a></h3>
-        <p class="archive__item-excerpt">Nintendo LEGO sets and builds</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="feature__item">
-    <div class="archive__item">
-      <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/assets/images/themes/disney.png" alt="Disney">
-      </div>
-      <div class="archive__item-body">
-        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collections/disney/">Disney</a></h3>
-        <p class="archive__item-excerpt">Disney LEGO sets and builds</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="feature__item">
-    <div class="archive__item">
-      <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/assets/images/themes/netflix.png" alt="Netflix">
-      </div>
-      <div class="archive__item-body">
-        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collections/netflix/">Netflix</a></h3>
-        <p class="archive__item-excerpt">Netflix-themed LEGO sets and builds</p>
+        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collection/frieren/">Frieren</a></h3>
+        <p class="archive__item-excerpt">Weiss Schwarz cards from the Frieren set</p>
       </div>
     </div>
   </div>
