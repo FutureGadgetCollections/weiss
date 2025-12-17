@@ -1,23 +1,20 @@
 ---
-title: "Azur Lane 2 Placeholder"
+title: "Azur Lane Vol. 2"
 date: 2025-12-14
 categories:
   - azur-lane-2
 tags:
   - weiss-schwarz
-  - placeholder
-excerpt: "Placeholder entry for Azur Lane 2 collection"
+  - collection
+excerpt: "Collection tracking for Azur Lane Vol. 2 - 4 booster box cases (including 1 master case)"
 ---
 
 ## Collection Details
 
-This is a placeholder entry for the Azur Lane 2 Weiss Schwarz set.
-
-![azure](/assets/images/azurelane2.jpg)
+![azure]({{ site.baseurl }}/assets/images/azurelane2.jpg)
 
 **Date:** December 14, 2025
-**Set:** Azur Lane 2
-**Status:** Placeholder
+**Set:** Azur Lane Vol. 2
 
 ## Purchase History
 

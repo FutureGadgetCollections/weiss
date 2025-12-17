@@ -1,23 +1,20 @@
 ---
-title: "Frieren Placeholder"
+title: "Frieren: Beyond Journey's End"
 date: 2025-12-14
 categories:
   - frieren
 tags:
   - weiss-schwarz
-  - placeholder
-excerpt: "Placeholder entry for Frieren collection"
+  - collection
+excerpt: "Collection tracking for Frieren: Beyond Journey's End - 2 booster box cases"
 ---
 
 ## Collection Details
 
-This is a placeholder entry for the Frieren Weiss Schwarz set.
-
-![Frieren](/assets/images/frieren.jpg)
+![Frieren]({{ site.baseurl }}/assets/images/frieren.jpg)
 
 **Date:** December 14, 2025
-**Set:** Frieren
-**Status:** Placeholder
+**Set:** Frieren: Beyond Journey's End
 
 ## Purchase History
 

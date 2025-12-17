@@ -8,8 +8,14 @@ tags:
 excerpt: "December 2025"
 ---
 
-## Portfolio Summary Entry
+## Portfolio Overview
 
-| Previous Amount Invested | Previous Value | Amount Invested | Current Value(Before Fees) | Rate of Return |
-|--------------------------|----------------|-----------------|----------------------------|----------------|
-| $0                       | $0             | $7421           | $7508                      | 1.17%          |
+| Date | Cost Basis | Current Value | Fire Sale Value (85%) | ROI |
+|------|------------|---------------|----------------------|-----|
+| 2025-12-14 | $7,421 | $7,508 | $6,382 | 1.17% |
+
+## Realized Profits
+
+| Date Captured | Realized Profit Since Last Capture |
+|---------------|-----------------------------------|
+| 2025-12-14 | $0 |

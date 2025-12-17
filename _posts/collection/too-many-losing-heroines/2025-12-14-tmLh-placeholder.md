@@ -1,23 +1,20 @@
 ---
-title: "Too Many Losing Heroines Placeholder"
+title: "Makeine: Too Many Losing Heroines!"
 date: 2025-12-14
 categories:
   - too-many-losing-heroines
 tags:
   - weiss-schwarz
-  - placeholder
-excerpt: "Placeholder entry for Too Many Losing Heroines collection"
+  - collection
+excerpt: "Collection tracking for Makeine: Too Many Losing Heroines! - 1 Japanese booster box case"
 ---
 
 ## Collection Details
 
-This is a placeholder entry for the Too Many Losing Heroines Weiss Schwarz set.
-
-![tmlh](/assets/images/makeine.jpg)
+![tmlh]({{ site.baseurl }}/assets/images/makeine.jpg)
 
 **Date:** December 14, 2025
-**Set:** Too Many Losing Heroines
-**Status:** Placeholder
+**Set:** Makeine: Too Many Losing Heroines!
 
 
 ## Purchase History
