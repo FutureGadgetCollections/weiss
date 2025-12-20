@@ -29,8 +29,8 @@ Welcome to the Weiss Schwarz collection showcase! Browse by set below:
         <img src="{{ site.baseurl }}/assets/images/themes/azurelane2.jpg" alt="Azur Lane 2">
       </div>
       <div class="archive__item-body">
-        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collection/azur-lane-2/">Azur Lane 2</a></h3>
-        <p class="archive__item-excerpt">Weiss Schwarz cards from the Azur Lane 2 set</p>
+        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collection/azure-lane-2/">Azure Lane 2</a></h3>
+        <p class="archive__item-excerpt">Weiss Schwarz cards from the Azure Lane 2 set</p>
       </div>
     </div>
   </div>

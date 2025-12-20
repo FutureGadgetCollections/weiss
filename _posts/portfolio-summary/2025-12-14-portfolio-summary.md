@@ -6,16 +6,21 @@ categories:
 tags:
   - portfolio
 excerpt: "December 2025"
+classes: wide
 ---
 
 ## Portfolio Overview
 
 | Date | Cost Basis | Current Value | Fire Sale Value (85%) | ROI |
 |------|------------|---------------|----------------------|-----|
-| 2025-12-14 | $7,421 | $7,508 | $6,382 | 1.17% |
+{%- for item in site.data.portfolio-summary.portfolio-overview %}
+| {{ item.date }} | {{ item.cost_basis }} | {{ item.current_value }} | {{ item.fire_sale_value }} | {{ item.roi }} |
+{%- endfor %}
 
 ## Realized Profits
 
 | Date Captured | Realized Profit Since Last Capture |
 |---------------|-----------------------------------|
-| 2025-12-14 | $0 |
+{%- for item in site.data.portfolio-summary.realized-profits %}
+| {{ item.date_captured }} | {{ item.realized_profit }} |
+{%- endfor %}

@@ -7,6 +7,8 @@ author_profile: false
 classes: wide
 ---
 
+![Too Many Losing Heroines]({{ site.baseurl }}/assets/images/themes/makeine.jpg)
+
 Weiss Schwarz cards from the Too Many Losing Heroines set.
 
 {% assign collection_posts = site.categories.too-many-losing-heroines %}

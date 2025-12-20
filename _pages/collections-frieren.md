@@ -7,6 +7,8 @@ author_profile: false
 classes: wide
 ---
 
+![Frieren]({{ site.baseurl }}/assets/images/themes/frieren.jpg)
+
 Weiss Schwarz cards from the Frieren set.
 
 {% assign collection_posts = site.categories.frieren %}

@@ -4,9 +4,12 @@ date: 2025-12-13
 categories:
   - purchases
 excerpt: "All preorders done for azure lane 2"
+classes: wide
 ---
 
 ## Purchase Details
+
+![Azure Lane 2]({{ site.baseurl }}/assets/images/themes/azurelane2.jpg)
 
 **Date:** May 21, 2025
 
@@ -14,15 +17,14 @@ Content coming soon...
 
 ## Purchase History
 
-| SKU                     | Quantity | Purchase Date | Price Per Unit | Price per Booster Box | Current Status | Purchase Source | Notes                                              |
-|-------------------------|----------|---------------|----------------|-----------------------|----------------|----------------|----------------------------------------------------|
-| Booster Box Case        | 1        | 2025-05-21    | $1,089.00      | $45.38                | In Storage | goldstarcollectibles.com | cases have 24 boxes. This was also a pre-order     |
-| Master Booster Box Case | 1        | 2025-05-21    | $2,100.00      | $43.75                | In Storage | lumiusinc.com | Master cases are 2 cases This was also a pre-order |
-| Booster Box Case        | 1        | 2025-05-21    | $1,089.00      | $45.38                | In Storage | www.n4ytcg.com | cases have 24 boxes. This was also a pre-order     |
+| SKU | Quantity | Purchase Date | Price Per Unit | Price per Booster Box | Current Status | Purchase Source | Notes |
+|-----|----------|---------------|----------------|-----------------------|----------------|-----------------|-------|
+{%- for item in site.data.azur-lane-2.purchase-history %}
+| {{ item.sku }} | {{ item.quantity }} | {{ item.purchase_date }} | {{ item.price_per_unit }} | {{ item.price_per_booster_box }} | {{ item.current_status }} | {{ item.purchase_source }} | {{ item.notes }} |
+{%- endfor %}
 
 
 ## Receipts
-![img.png](receipts/2025/azure-n4ytcg.png)
-
-![img.png](receipts/2025/azure-goldstar.png)
-![img.png](receipts/2025/azure-lumius.png)
+![N4Y TCG Receipt](receipts/2025/n4y-tcg-azure.jpg)
+![Goldstar Receipt](receipts/2025/goldstar-azure.jpg)
+![Lumius Receipt](receipts/2025/lumius-azure.jpg)
