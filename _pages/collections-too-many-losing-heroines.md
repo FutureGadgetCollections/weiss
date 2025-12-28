@@ -16,6 +16,7 @@ Weiss Schwarz cards from the Too Many Losing Heroines set.
 ## My Thoughts and Research
 
 - [Entry Research: Too Many Losing Heroines]({{ site.baseurl }}/research/tmlh-entry-research/)
+- [English Release Research: Too Many Losing Heroines]({{ site.baseurl }}/research/tmlh-english-release-research/)
 
 ---
 
